@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVPWithTabletUI</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="msg_api_error">Error while fetching news list. Please check your internet connection or try again after some time</string>
+    <string name="btn_ok">OK</string>
+</resources>
